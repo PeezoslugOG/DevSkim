@@ -42,7 +42,7 @@
     "rimraf": "^2.7.1",
     "ts-loader": "^6.2.2",
     "typescript": "^3.9.7",
-    "webpack": "^4.44.1",
+    "webpack": "^5.105.4",
     "webpack-cli": "^3.3.12"
   }
 }
